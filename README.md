@@ -1,2 +1,2 @@
 # a-estrela
-a-estrela pygame
+PyGame visualization of the A-star algorithm
